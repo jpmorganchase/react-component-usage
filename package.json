@@ -1,0 +1,23 @@
+{
+  "name": "react-component-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "echo \"****Building all packages****\" && lerna exec yarn build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<TODO>"
+  },
+  "keywords": [],
+  "author": "JPMC",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^5.2.0"
+  }
+}
