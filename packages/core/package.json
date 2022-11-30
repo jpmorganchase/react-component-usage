@@ -1,0 +1,22 @@
+{
+  "name": "@react-component-usage/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo skip build core"
+  },
+  "dependencies": {
+    "@phenomnomnominal/tsquery": "^3.0.0",
+    "@react-component-usage/utils": "1.0.0",
+    "madge": "5.0.1",
+    "node-fetch": "2.6.7"
+  },
+  "devDependencies": {
+    "commander": "^9.4.0",
+    "typescript": "^4.2.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
