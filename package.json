@@ -12,11 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "<TODO>"
+    "url": "https://github.com/jpmorganchase/react-component-usage"
   },
   "keywords": [],
-  "author": "JPMC",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "devDependencies": {
     "lerna": "^5.2.0"
   }
