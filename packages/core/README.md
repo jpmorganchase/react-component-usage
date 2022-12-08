@@ -51,10 +51,3 @@ ConfigRequestType {
 }
 
 ```
-
-
-## What are variables
-
-
-
-

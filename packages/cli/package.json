@@ -13,6 +13,5 @@
     "shelljs": "^0.8.4"
   },
   "keywords": [],
-  "author": "",
-  "license": "MIT"
+  "license": "Apache-2.0"
 }
